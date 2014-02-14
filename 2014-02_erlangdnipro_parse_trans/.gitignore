@@ -1,0 +1,6 @@
+*.*
+!.gitignore
+!assets/*.*
+!*.tex
+!*.pdf
+!README
