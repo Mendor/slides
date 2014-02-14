@@ -1,0 +1,5 @@
+Slides for speech about Erlang parse_transofm at Erlang Dnipro 2014
+Conference announce: http://douua.org/calendar/4292/
+
+
+$ pdflatex slides.tex
